@@ -58,7 +58,7 @@
               <con3:assign varName="body">
                 <con2:id>_ActionId-6260873755789089735-23e46d95.14e023ad426.-7fc3</con2:id>
                 <con3:expr>
-                  <con2:xqueryText>fn-bea:inlinedXML($StringVar/text())</con2:xqueryText>
+                  <con2:xqueryText>fn-bea:inlinedXML($StringVar)</con2:xqueryText>
                 </con3:expr>
               </con3:assign>
             </con1:outboundTransform>
